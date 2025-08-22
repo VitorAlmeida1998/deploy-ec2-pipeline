@@ -1,0 +1,13 @@
+{
+  "name": "deploy-ec2-pipeline",
+  "version": "1.0.0",
+  "description": "Exemplo de CI/CD com GitHub Actions + Docker + AWS EC2",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
